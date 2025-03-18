@@ -22,7 +22,7 @@ Limpieza automática de la lista tras cada sorteo.
 <h2>Instalación y Uso</h2>
 
 1. Descarga o clona el repositorio:
-https://github.com/KennyXen/challenge-amigo-secreto.git
+https://github.com/KennyXen/amigo-secreto.git
 
 
 2. Abre el archivo index.html en un navegador
